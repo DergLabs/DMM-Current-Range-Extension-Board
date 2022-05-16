@@ -5,3 +5,5 @@ This super simple little PCB is used to extend the range of a Keithley 2000 seri
 The board pictured below was an older test version that uses an aluminum PCB to minimize temperature rise in the Resistor. I have since changed to a two-layer board allowing for parallel resistors for even lower total resistances. 
 
 ![IMG_2099-min](https://user-images.githubusercontent.com/11001357/168540110-101cfef7-ccad-44c5-8083-dce8a8de08a4.png)
+
+![Screenshot 2022-05-16 032541](https://user-images.githubusercontent.com/11001357/168540757-e03b4aa5-14ef-4da2-b503-2a2961427654.png)
